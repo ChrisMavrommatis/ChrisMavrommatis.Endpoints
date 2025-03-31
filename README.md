@@ -1,4 +1,4 @@
-# Endpoints
+# ChrisMavrommatis.Endpoints
 
 `ChrisMavrommatis.Endpoints` is a .NET Package aimed to provide the Endpoint pattern in your projects while using classic Controllers behind the scenes.
 

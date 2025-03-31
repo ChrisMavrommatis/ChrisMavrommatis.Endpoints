@@ -8,9 +8,9 @@
 		<Title>ChrisMavrommatis.Endpoints</Title>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Authors>Chris Mavrommatis</Authors>
-		<PackageProjectUrl>https://github.com/ChrisMavrommatis/Endpoints</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/ChrisMavrommatis/Endpoints</RepositoryUrl>
-		<Version>2.0.1</Version>
+		<PackageProjectUrl>https://github.com/ChrisMavrommatis/ChrisMavrommatis.Endpoints</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ChrisMavrommatis/ChrisMavrommatis.Endpoints</RepositoryUrl>
+		<Version>2.0.2</Version>
 		<PackageIcon>package-icon.png</PackageIcon>
 		<AssemblyName>ChrisMavrommatis.Endpoints</AssemblyName>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
@@ -32,7 +32,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="7.0.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="8.1.0" />
 	</ItemGroup>
 
 </Project>
