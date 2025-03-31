@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # 17
 VisualStudioVersion = 17.11.35111.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Endpoints", "src\Endpoints\Endpoints.csproj", "{5646692C-E3FF-4BA1-A4FD-E019662D470C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChrisMavrommatis.Endpoints", "src\ChrisMavrommatis.Endpoints\ChrisMavrommatis.Endpoints.csproj", "{5646692C-E3FF-4BA1-A4FD-E019662D470C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A57385B1-EC3C-428F-AC9E-38B0401A6F73}"
 EndProject
